@@ -1,28 +1,22 @@
-# DASS ASSIGNMENT-1
-
-## Create Greddiit - A Reddit Clone
+## Greddiit - A Reddit Clone
 <br/>
 
 ## AIM: Build a full-stack social media platform using MERN Stack
 
 ### MERN -> MongoDB, React JS, Express JS (REST API) and Node JS.
 
-<br/>
-
 ## Requirements: 
 
-### The requirements followed by us all all based of the assignment 1 document shared with us.
+### The requirements followed by us all all based of the assignment 1 document attached.
 
 <br/>
 
 ## Tree outline:
 #### The entire project is divided into the following structure. The assignment, has 2 folders, 1 for the frontend and another for the backend.
 
-<br/>
 
 <center><img src=./frontend/images/tree.png /></center>
 
-<br/>
 
 ## To run the local files on your system:
 <ol>
@@ -140,7 +134,7 @@
 
 ## Dockerisation: 
 
-### The assignments final part requires dockerisation. Each of the folders has a docker file as well as a nginx folder.
+###  Each of the folders has a docker file as well as a nginx folder.
 
 #### Run the below command in the folder conatining the files and now the web-app is dockerized.
 ```
