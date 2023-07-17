@@ -9,7 +9,7 @@
 
 ### The requirements followed by us all all based of the assignment 1 document attached.
 
-<br/>
+
 
 ## Tree outline:
 #### The entire project is divided into the following structure. The assignment, has 2 folders, 1 for the frontend and another for the backend.
