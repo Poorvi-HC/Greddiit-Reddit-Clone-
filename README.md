@@ -8,7 +8,7 @@
 
 ## Requirements: 
 
-### The requirements followed by us all all based of the assignment 1 document attached.
+### The requirements followed is all based off of the assignment 1 pdf attached.
 
 <br/>
 
