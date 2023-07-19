@@ -23,7 +23,7 @@ import Users from "./Users.js";
 // import { Provider } from "react-redux";
 // import { store } from "./store";
 // import MySubGreddit from "./MySubGreddit.tsx";
-
+// added the necessary missing files
 
 // function Copyright() {
 //   return (
