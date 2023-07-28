@@ -6,12 +6,6 @@
 ### MERN -> MongoDB, React JS, Express JS (REST API) and Node JS.
 <br/>
 
-## Requirements: 
-
-### The requirements followed is all based off of the assignment 1 pdf attached.
-
-<br/>
-
 
 ## Tree outline:
 #### The entire project is divided into the following structure. The assignment, has 2 folders, 1 for the frontend and another for the backend.
